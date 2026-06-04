@@ -1,5 +1,12 @@
 # VANTA — Rapper & Lyricist Website (Demo)
 
+[![Live site](https://img.shields.io/badge/Live%20demo-subchibeats.github.io-FF4438?style=flat-square)](https://subchibeats.github.io/vanta-artist-website/)
+[![Made with](https://img.shields.io/badge/Built%20with-HTML%20%C2%B7%20CSS%20%C2%B7%20JS-111?style=flat-square)](#tech-stack)
+[![No build step](https://img.shields.io/badge/Dependencies-0-2ea44f?style=flat-square)](#tech-stack)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
+
+> **▶ Live demo: https://subchibeats.github.io/vanta-artist-website/**
+
 A five-page demo artist website for **Vanta**, a fictional rapper and lyricist
 who "builds every track bars-first — no filler, no wasted space." It's a
 styling/branding demo built on a shared, dependency-free template and themed with
@@ -13,13 +20,10 @@ host it on any static CDN, or view it on a phone; it behaves identically.
 
 ## Demo / Screenshots
 
-> _Add screenshots or a GIF walkthrough here._
->
-> | Home | Music | EPK |
-> |------|-------|-----|
-> | `docs/home.png` | `docs/music.png` | `docs/epk.png` |
+**▶ Live demo:** https://subchibeats.github.io/vanta-artist-website/
 
-Live preview: open `index.html` in any modern browser.
+> Open the live demo above for the full experience — animated hero, marquees,
+> and the audio-reactive visualiser. _Screenshots: see `docs/`._
 
 ---
 
@@ -93,3 +97,17 @@ external files and can be edited or deployed independently.
 ## License
 
 Released under the [MIT License](LICENSE).
+
+---
+
+## Built by
+
+Designed and developed by **Sahib Singh** — custom websites and creative web
+apps for musicians and artists. *Vanta* is a demo concept showcasing one of
+several artist-site themes.
+
+- 🌐 Live demo: https://subchibeats.github.io/vanta-artist-website/
+- 📸 Instagram: [@subchibeats](https://instagram.com/subchibeats)
+- ✉️ Web work & bookings: `subchibeats@gmail.com`
+
+> Want a site like this for your project? Get in touch.
