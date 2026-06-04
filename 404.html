@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>404 &mdash; Vanta</title>
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#0B0B0C">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%230B0B0C'/><text x='50' y='73' font-family='Arial,Helvetica,sans-serif' font-size='62' font-weight='bold' text-anchor='middle' fill='%23FF4438'>V</text></svg>">
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo:wght@400;500;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0B0B0C;--fg:#EDEAE3;--dim:rgba(237,234,227,.55);--accent:#FF4438}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{height:100%}
+body{background:var(--bg);color:var(--fg);font-family:'Archivo',system-ui,sans-serif;
+  display:grid;place-items:center;text-align:center;padding:24px;overflow:hidden}
+.glow{position:fixed;width:70vw;height:70vw;max-width:760px;max-height:760px;border-radius:50%;
+  left:50%;top:42%;transform:translate(-50%,-50%);z-index:0;filter:blur(20px);
+  background:radial-gradient(circle,rgba(255,68,56,.18),transparent 62%)}
+.wrap{position:relative;z-index:1;max-width:640px}
+.eyebrow{font-family:'Space Mono',monospace;font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:var(--accent)}
+h1{font-family:'Anton',Impact,sans-serif;font-size:clamp(96px,28vw,240px);line-height:.82;letter-spacing:.01em;margin:6px 0 4px}
+h2{font-family:'Anton',Impact,sans-serif;font-size:clamp(22px,5vw,38px);text-transform:uppercase;letter-spacing:.02em}
+p{color:var(--dim);margin:16px auto 30px;max-width:42ch;line-height:1.6;font-size:clamp(15px,1.6vw,17px)}
+.btns{display:flex;gap:12px;justify-content:center;flex-wrap:wrap}
+a.btn{font-family:'Space Mono',monospace;font-size:13px;letter-spacing:.12em;text-transform:uppercase;
+  padding:14px 24px;border-radius:50px;border:1px solid var(--fg);color:var(--fg);text-decoration:none;
+  transition:background .3s,color .3s,border-color .3s}
+a.btn:hover{background:var(--fg);color:#0b0b0c}
+a.btn.solid{background:var(--accent);border-color:var(--accent);color:#0b0b0c}
+a.btn.solid:hover{background:var(--fg);border-color:var(--fg)}
+</style>
+</head>
+<body>
+<div class="glow"></div>
+<div class="wrap">
+  <span class="eyebrow">Error 404</span>
+  <h1>404</h1>
+  <h2>No bars here</h2>
+  <p>This page doesn't exist. The link may be old or mistyped &mdash; let's get you back to the music.</p>
+  <div class="btns">
+    <a class="btn solid" href="/">Back home &rarr;</a>
+    <a class="btn" href="/music.html">Hear the music &rarr;</a>
+  </div>
+</div>
+</body>
+</html>
