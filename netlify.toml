@@ -1,0 +1,5 @@
+# Static site — no build step.
+# Netlify publishes these files exactly as they are (no compile, minimal deploy cost).
+[build]
+  command = ""
+  publish = "."

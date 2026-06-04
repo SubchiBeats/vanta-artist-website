@@ -1,12 +1,12 @@
 # VANTA — Rapper & Lyricist Website (Demo)
 
-[![Live site](https://img.shields.io/badge/Live%20demo-vantamusic.netlify.app-FF4438?style=flat-square)](https://vantamusic.netlify.app/)
+[![Live site](https://img.shields.io/badge/Live%20demo-subchibeats.github.io-FF4438?style=flat-square)](https://subchibeats.github.io/vanta-artist-website/)
 [![Made with](https://img.shields.io/badge/Built%20with-HTML%20%C2%B7%20CSS%20%C2%B7%20JS-111?style=flat-square)](#tech-stack)
 [![No build step](https://img.shields.io/badge/Dependencies-0-2ea44f?style=flat-square)](#tech-stack)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 
-> **▶ Live demo: https://vantamusic.netlify.app/**
-> &nbsp;·&nbsp; mirror: https://subchibeats.github.io/vanta-artist-website/
+> **▶ Live demo: https://subchibeats.github.io/vanta-artist-website/**
+> &nbsp;·&nbsp; also at https://vantamusic.netlify.app/
 
 A five-page demo artist website for **Vanta**, a fictional rapper and lyricist
 who "builds every track bars-first — no filler, no wasted space." It's a
@@ -21,7 +21,7 @@ host it on any static CDN, or view it on a phone; it behaves identically.
 
 ## Demo / Screenshots
 
-**▶ Live demo:** https://vantamusic.netlify.app/
+**▶ Live demo:** https://subchibeats.github.io/vanta-artist-website/
 
 > Open the live demo above for the full experience — animated hero, marquees,
 > and the audio-reactive visualiser. _Screenshots: see `docs/`._
@@ -107,7 +107,7 @@ Designed and developed by **Sahib Singh** — custom websites and creative web
 apps for musicians and artists. *Vanta* is a demo concept showcasing one of
 several artist-site themes.
 
-- 🌐 Live demo: https://vantamusic.netlify.app/
+- 🌐 Live demo: https://subchibeats.github.io/vanta-artist-website/ &nbsp;·&nbsp; https://vantamusic.netlify.app/
 - 📸 Instagram: [@subchibeats](https://instagram.com/subchibeats)
 - ✉️ Web work & bookings: `subchibeats@gmail.com`
 
